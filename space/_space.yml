@@ -1,0 +1,7 @@
+global:
+  type: size
+  category: Baseline
+
+props:
+  baseline:
+    value: ".25rem"

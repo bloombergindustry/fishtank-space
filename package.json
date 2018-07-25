@@ -1,6 +1,6 @@
 {
   "name": "@fishtank/space",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Spacing tokens for the Fishtank Design System",
   "main": "dist/index.json",
   "scripts": {

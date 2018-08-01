@@ -1,7 +1,5 @@
-global:
-  type: size
-  category: Baseline
-
 props:
   baseline:
+    category: Baseline
+    type: size
     value: ".25rem"

@@ -1,2 +1,3 @@
 imports:
   - space/_space.yml
+  - space/_scale.yml

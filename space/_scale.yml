@@ -1,0 +1,41 @@
+global:
+  type: size
+  category: Baseline
+props:
+  # TODO: derive from `baseline` and `baseline-scale` values in a way that works across all formatters
+  baseline-scale:
+    category: Baseline
+    type: scale
+    value:
+      - 2
+      - 3
+      - 4
+      - 6
+      - 9
+      - 12
+      - 18
+      - 24
+      - 36
+  baseline-1:
+    value: ".25rem"
+  baseline-2:
+    value: "0.50rem"
+  baseline-3:
+    value: "0.75rem"
+  baseline-4:
+    value: "1rem"
+  baseline-6:
+    value: "1.5rem"
+  baseline-9:
+    value: "2.25rem"
+  baseline-12:
+    value: "3rem"
+  baseline-18:
+    value: "4.5rem"
+  baseline-24:
+    value: "6rem"
+  baseline-36:
+    value: "9rem"
+
+  
+  

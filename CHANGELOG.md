@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/bloombergbna/fishtank-space/compare/v1.0.12...v1.1.0) (2018-08-17)
+
+
+### Features
+
+* Adds scale and expanded scale variables. ([b9e7839](https://github.com/bloombergbna/fishtank-space/commit/b9e7839))
+
+
+
 <a name="1.0.12"></a>
 ## 1.0.12 (2018-07-25)
 

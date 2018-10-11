@@ -1,12 +1,12 @@
 {
   "name": "@fishtank/space",
   "version": "1.2.0",
-  "description": "Spacing tokens for the Fishtank Design System",
+  "description": "Spacing tokens for the Fish Tank Design System",
   "main": "dist/index.json",
   "scripts": {
     "clean": "rm -rf dist/*",
     "build": "npm run build:tokens && npm run build:manifest",
-    "build:tokens": "theo index.yml --format custom-properties.css,scss,common.js,json --dest dist/",
+    "build:tokens": "theo index.yml --format custom-properties.css,scss,common.js,json,less --dest dist/",
     "build:manifest": "node scripts/get_token_names.js > token_names.json",
     "prepare": "npm run clean && npm run build",
     "watch": "nodemon -e yml --ignore build --exec npm run build",
@@ -24,7 +24,7 @@
     "url": "https://github.com/bloombergbna/fishtank-space",
     "type": "git"
   },
-  "author": "Fishtank Design System <agile_fishtank@bna.com>",
+  "author": "Fish Tank Design System <agile_fishtank@bna.com>",
   "license": "Apache-2.0",
   "keywords": [
     "fishtank",

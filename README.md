@@ -1,6 +1,6 @@
-# Fishtank Space
+# Fish Tank Space
 
-[Space tokens](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421) for all of the space in the Fishtank Design System, distributed in one freestanding package.
+[Space tokens](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421) for all of the space in the Fish Tank Design System, distributed in one freestanding package.
 
 ## Installation
 
@@ -15,7 +15,8 @@ Once you've added `@fishtank/space` as a dependency, you'll be able to get the t
 * JSON (default)
 * Common.JS module
 * CSS Custom Properties
-* SCSS Variables
+* SCSS
+* LESS
 
 More formats are available. See [`theo`](https://github.com/salesforce-ux/theo) for more information.
 

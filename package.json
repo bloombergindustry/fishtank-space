@@ -41,7 +41,7 @@
     "husky": "0.14.3",
     "nodemon": "^1.12.2",
     "nothing-major": "^1.1.1",
-    "standard-version": "^4.3.0",
+    "standard-version": "^8.0.1",
     "theo": "^6.0.0-beta.7"
   }
 }
